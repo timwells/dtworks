@@ -9,8 +9,8 @@ const {
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////
 const client = new IAMClient({
-    region: AWS_REGION_KEY,
-    credentials: { accessKeyId: AWS_ACCESS_KEY_ID, secretAccessKey: AWS_SECRET_ACCESS_KEY},
+  region: AWS_REGION_KEY,
+  credentials: { accessKeyId: AWS_ACCESS_KEY_ID, secretAccessKey: AWS_SECRET_ACCESS_KEY},
 });
 
 const listCustomPolicies = async () => {    
@@ -31,6 +31,7 @@ const listCustomPolicies = async () => {
     console.error("Error listing custom policies:", error);
   }
 };
+
 const getPolicyContent = async (policyArn) => {
   try {
     // Step 1: Get the policy details
@@ -46,7 +47,7 @@ const getPolicyContent = async (policyArn) => {
     });
     const versionResponse = await client.send(getPolicyVersionCommand);
 
-    console.log("Policy Content:");
+    console.log(`Policy Content: ${policyArn}`);
     // console.log(JSON.stringify(versionResponse.PolicyVersion.Document, null, 2));
     const rawDocument = versionResponse.PolicyVersion.Document;
     const decodedDocument = decodeURIComponent(rawDocument);

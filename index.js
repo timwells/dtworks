@@ -25,6 +25,13 @@ const {
     createIamPolicy
 } = require("./iam/iam.js");
 
+const {
+    createBucket,
+    uploadToBucket,
+    listBuckets,
+    listBucketContents  
+} = require("./s3/s3.js");
+
 const { 
     STATION_PUMP_MOTOR_MODEL_NAME,
     STATION_PUMP_MOTOR_MODEL_DESCRIPTION,    
@@ -80,7 +87,14 @@ const runSimulations = async (iterations,pollRate) => {
     //await getPolicyContent("arn:aws:iam::009265529597:policy/IotSiteWisePolicy");
     //await getPolicyContent("arn:aws:iam::009265529597:policy/FactoryPolicy");
 
-    await createIamPolicy();
+    // await getPolicyContent("arn:aws:iam::009265529597:policy/MyXS3AccessPolicy");
+
+    //await listBuckets();
+    //await listBucketContents("factorywsbucketx2");
+
+    await createBucket("dt-xx-v2");
+
+    //await createIamPolicy();
 })();
 
 
