@@ -43,8 +43,8 @@ const PUMP1_ASSET_TEMP_ID = 'ed66b0fc-cb30-4fae-a1a0-55dd4d2f2134';
 
 const runSimulations = async (iterations,pollRate) => {
     for(let i=0; i < iterations;i++) {
-        await runGenericSim(PUMP1_ASSET_ID,PUMP1_ASSET_SPEED_ID,1,1180,1210,pollRate);
-        await runGenericSim(PUMP1_ASSET_ID,PUMP1_ASSET_TEMP_ID,1,18.5,21.2,pollRate);
+        await runGenericSim(PUMP1_ASSET_ID,PUMP1_ASSET_SPEED_ID,1,1180,1210,"GOOD",pollRate);
+        await runGenericSim(PUMP1_ASSET_ID,PUMP1_ASSET_TEMP_ID,1,18.5,21.2,"GOOD",pollRate);
     }
 }
 
