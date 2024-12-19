@@ -82,3 +82,18 @@ const runSimulations = async (iterations,pollRate) => {
 
     await createIamPolicy();
 })();
+
+
+/*
+// AWS Credentials as constants (replace with your actual credentials)
+// Create /secrets/secrets.js
+const AWS_ACCESS_KEY_ID = "XXX";
+const AWS_SECRET_ACCESS_KEY = "YY";
+const AWS_REGION_KEY = "eu-west-1";
+
+module.exports = {
+    AWS_ACCESS_KEY_ID,
+    AWS_SECRET_ACCESS_KEY,
+    AWS_REGION_KEY
+}
+*/
