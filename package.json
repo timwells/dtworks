@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@aws-sdk/client-iotsitewise": "^3.712.0"
+    "@aws-sdk/client-iam": "^3.714.0",
+    "@aws-sdk/client-iotsitewise": "^3.712.0",
+    "@aws-sdk/client-iottwinmaker": "^3.714.0"
   }
 }

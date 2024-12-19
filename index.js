@@ -10,12 +10,20 @@ const {
     deleteAssets,
 } = require("./asset/asset.js");
 
-
-
 const {
-    runSpeedSim,
     runGenericSim
 } = require("./simulations/simulations.js");
+
+const {
+    createWorkspace,
+    listScenes
+} = require("./workspaces/workspaces.js");
+
+const {
+    listCustomPolicies,
+    getPolicyContent,
+    createIamPolicy
+} = require("./iam/iam.js");
 
 const { 
     STATION_PUMP_MOTOR_MODEL_NAME,
@@ -49,14 +57,28 @@ const runSimulations = async (iterations,pollRate) => {
 }
 
 (async () => {
+    // Model, Assets & Simulation
+    //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-    // await createModel(STATION_PUMP_MOTOR_MODEL_NAME, STATION_PUMP_MOTOR_MODEL_DESCRIPTION, STATION_PUMP_MOTOR_MODEL_PROPERTIES);    
-    
+    // await createModel(STATION_PUMP_MOTOR_MODEL_NAME, STATION_PUMP_MOTOR_MODEL_DESCRIPTION, STATION_PUMP_MOTOR_MODEL_PROPERTIES);        
     // await createAssets(STATION_PUMP_MOTOR_MODEL_NAME,PUMP_STATION_MOTOR_ASSETS,STATION_PUMP_MOTOR_MODEL_PROPERTIES);
-    await runSimulations(5,3000)
+// await runSimulations(5,3000)
     
     // await deleteAssets(STATION_PUMP_MOTOR_MODEL_NAME)
 
     // await listAssetModels();
     // await listAllAssets();
+
+    // Workspaces, Entities and Scenes
+    //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+    // await createWorkspace();
+
+    // await listScenes();
+    // await listCustomPolicies();
+
+    //await getPolicyContent("arn:aws:iam::009265529597:policy/IotSiteWisePolicy");
+    //await getPolicyContent("arn:aws:iam::009265529597:policy/FactoryPolicy");
+
+    await createIamPolicy();
 })();
