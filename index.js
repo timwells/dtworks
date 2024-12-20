@@ -89,10 +89,10 @@ const runSimulations = async (iterations,pollRate) => {
 
     // await getPolicyContent("arn:aws:iam::009265529597:policy/MyXS3AccessPolicy");
 
-    //await listBuckets();
+    await listBuckets();
     //await listBucketContents("factorywsbucketx2");
 
-    await createBucket("dt-xx-v2");
+    //await createBucket("dt-xx-v2");
 
     //await createIamPolicy();
 })();
