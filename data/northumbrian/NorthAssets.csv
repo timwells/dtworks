@@ -1,0 +1,194 @@
+type,name,lat,lng,assetId,tds,AveDrySolids,classification,InletScreened6mm,InletDeGritting,SludgeScreened,,CoLocatedSTC,OpsHrs,TankerSizeM3,Collection,SlugePrimaryDestination,SlugePrimaryDestinationPercent,PrimaryTransportMode,SlugeSecondaryDestination,SlugeSecondaryDestinationPercent,SecondaryTransportMode
+WwTW,ALLENDALE STW,54.9082,-2.2694,NST2072,13,2.69,SB,Y,Y,N,-,N,12 hrs 7 days,18,Weekly,Hexham,89,Road - liquid,Howdon,11,Road - liquid
+WwTW,ALNWICK STW,55.412200,-1.681200,NST1272,339,1.78,SB,Y,Y,N,-,N,24 hrs 7 days,29,Daily,Howdon,100,Road - liquid,,,
+WwTW,AMBLE STW,55.324100,-1.576300,NST9122,175,2.14,CSAS,Y,Y,N,-,N,24 hrs 7 days,29,Twice Weekly,Howdon,100,Road - liquid,,,
+WwTW,AYCLIFFE STW,54.605200,-1.563200,TST1112,1428,4.00,SAS Cphos,Y,Y,N,-,N,24 hrs 7 days,29,Daily,Bran Sands,62,Road - liquid,Howdon,37,Road - liquid
+WwTW,GREAT AYTON STW,54.479400,-1.156500,TST2022,119,2.11,SB Cphos,Y,Y,N,-,N,24 hrs 7 days,29,Twice Weekly,Bran Sands,93,Road - liquid,Portrack,7,Road - liquid
+WwTW,BARKERS HAUGH STW,54.782442,-1.572749,WST1032,946,3.76,SB Cphos,Y,Y,N,-,N,24 hrs 7 days,29,Daily,Howdon,93,Road - liquid,Hendon,7,Road - liquid
+WwTW,BARNARD CASTLE STW,54.534900,-1.910000,TST3022,163,4.89,SB,Y,Y,N,-,N,24 hrs 7 days,29,Weekly,Bran Sands,95,Road - liquid,Portrack,5,Road - liquid
+WwTW,BELMONT STW,54.799900,-1.528600,WST1052,229,4.57,SB Cphos,Y,Y,N,-,N,24 hrs 7 days,29,Daily,Howdon,91,Road - liquid,Hendon,9,Road - liquid
+WwTW,BERWICK STW,55.757272,-2.032702,NST1012,31,4.00,SAS,Y,Y,N,-,N,24 hrs 7 days,29,Daily,Howdon,100,,,,
+WwTW,BILLINGHAM STW,54.622900,-1.258800,TST402,748,2.88,SAS,Y,Y,N,-,N,24 hrs 7 days,29,Daily,Bran Sands,76,Road - liquid,Portrack,24,Road - liquid
+WwTW,BIRTLEY STW,54.902600,-1.594400,NST2305,72,3.92,SB,Y,Y,Y,-,Y,24 hrs 7 days,29,Daily,Howdon,99,Road - liquid,Hexham,1,Road - liquid
+WwTW,BISHOP AUCKLAND STW,54.678600,-1.682800,WST1802,788,3.53,SB Cphos,Y,Y,N,-,N,24 hrs 7 days,29,Daily,Willington,84,Road - liquid,Bran Sands,11,Road - liquid
+WwTW,BLYTH STW,55.133300,-1.538600,NST1612,775,4.33,CSAS,Y,Y,N,-,N,24 hrs 7 days,29,Daily,Howdon,100,Road - liquid,,,
+WwTW,BOWBURN STW,54.727300,-1.532800,WST1062,305,2.74,SB Cphos,Y,Y,N,-,N,24 hrs 7 days,29,Daily,Howdon,99,Road - liquid,Hendon,1,Road - liquid
+WwTW,BROOMHAUGH STW,54.952100,-1.957400,NST2332,154,3.07,SAS,Y,Y,N,-,N,24 hrs 7 days,29,Twice Weekly,Howdon,100,Road - liquid,,,
+WwTW,BROWNEY STW,54.741700,-1.601100,WST1102,546,3.54,SAS Cphos,Y,Y,N,-,N,24 hrs 7 days,29,Daily,Willington,63,Road - liquid,Tudhoe Mill,25,Road - liquid
+WwTW,CAMBOIS STW,55.156900,-1.540900,NNN1005,656,2.94,SAS,Y,Y,N,-,N,24 hrs 7 days,29,Daily,Howdon,100,Road - liquid,,,
+WwTW,CARLTON & REDMARSHALL STW,54.592900,-1.404600,TST1062,56,1.72,SB,Y,Y,N,-,N,12 hrs 7 days,18,Weekly,Portrack,96,Road - liquid,Stressholme,3,Road - liquid
+WwTW,CHESTER LE STREET STW,54.854551,-1.578047,WST1152,767,4.50,SB Cphos,Y,Y,N,-,N,24 hrs 7 days,29,Daily,Howdon,93,Road - liquid,Hendon,4,Road - liquid
+WwTW,CHILTON LANE STW,54.667100,-1.521500,TST8042,61,3.33,SB,Y,Y,N,-,N,12 hrs 7 days,18,Weekly,Portrack,58,Road - liquid,Bran Sands,23,Road - liquid
+WwTW,CONSETT STW,54.889500,-1.852700,NST2192,931,4.69,SB Cphos,Y,Y,N,-,N,24 hrs 7 days,29,Daily,Howdon,95,Road - liquid,Birtley,4,Road - liquid
+WwTW,CRAMLINGTON STW,55.110900,-1.581600,NST1622,641,3.98,SAS,Y,Y,N,-,N,24 hrs 7 days,29,Daily,Howdon,100,Road - liquid,,,
+WwTW,CROOKHALL STW,54.849000,-1.806600,WST1182,53,4.02,SB,Y,Y,N,-,N,12 hrs 7 days,18,Weekly,Birtley,54,Road - liquid,Consett,40,Road - liquid
+WwTW,DIPTON STW,54.883900,-1.754900,NST2242,30,4.94,SB,Y,Y,N,-,N,12 hrs 7 days,18,Daily,Birtley,100,Road - liquid,,,
+WwTW,EAST TANFIELD STW,54.893400,-1.697400,NST2292,454,5.10,SB Cphos,Y,Y,N,-,N,24 hrs 7 days,29,Daily,Howdon,62,Road - liquid,Birtley,36,Road - liquid
+WwTW,ESH WINNING STW,54.775200,-1.690900,WST1242,96,3.41,SB,Y,Y,N,-,N,12 hrs 7 days,18,Weekly,Willington,95,Road - liquid,Tudhoe Mill,5,Road - liquid
+WwTW,FELTON STW,55.299700,-1.700900,NST8662,55,2.20,SB,Y,Y,N,-,N,12 hrs 7 days,29,Weekly,Howdon,100,Road - liquid,,,
+WwTW,FISHBURN STW,54.679400,-1.449500,TST8062,64,3.08,SB,Y,Y,N,-,N,12hrs 7 days,18,Weekly,Portrack,68,Road - liquid,Tudhoe Mill,18,Road - liquid
+WwTW,HALTWHISTLE STW,54.967900,-2.444700,NST1962,77,3.68,SB,Y,Y,N,-,N,24 hrs 7 days,29,Weekly,Howdon,100,Road - liquid,,,
+WwTW,HEXHAM STW,54.973700,-2.082600,NST2092,508,3.98,SAS,Y,Y,Y,-,N,24 hrs 7 days,29,Daily,Howdon,97,Road - liquid,Birtley,3,Road - liquid
+WwTW,HORDEN STW,54.776100,-1.318900,WST2242,1319,4.26,SAS,Y,Y,Y,-,N,24 hrs 7 days,29,Daily,Hendon,67,Road - liquid,Howdon,32,Road - liquid
+WwTW,HUSTLEDOWN STW,54.861000,-1.669500,WST1392,375,3.90,SB Cphos,Y,Y,Y,-,N,12 hrs 7 days,29,Twice weekly,Birtley,55,Road - liquid,Howdon,33,Road - liquid
+WwTW,HUTTON RUDBY STW,54.456,-1.2832,TST2082,27,2.37,SB,Y,Y,N,-,N,12 hrs 7 days,13,Weekly,Portrack,86,Road - liquid,Bran Sands,14,Road - liquid
+WwTW,KELLOE STW,54.717100,-1.474800,WST1422,17,1.60,SB,Y,Y,N,-,N,12 hrs 7 days,29,Weekly,Newton Aycliffe,61,Road - liquid,Tudhoe Mill,30,Road - liquid
+WwTW,KNITSLEY STW,54.828800,-1.808200,WST1432,59,3.54,SB,Y,Y,N,-,N,12 hrs 7 days,18,Weekly,Consett,55,Road - liquid,Birtley,41,Road - liquid
+WwTW,LANCHESTER STW,54.814300,-1.731400,WST1442,63,2.69,SB,Y,Y,N,-,N,12 hrs 7 days,18,Weekly,Consett,53,Road - liquid,Birtley,36,Road - liquid
+WwTW,LEAMSIDE STW,54.814000,-1.536300,WST1462,38,4.02,SB,Y,Y,N,-,N,12 hrs 7 days,18,Weekly,Birtley,85,Road - liquid,Tudhoe Mill,11,Road - liquid
+WwTW,LOCKHAUGH STW,54.924600,-1.734400,NST2442,312,4.42,SB Cphos,Y,Y,N,-,N,12 hrs 7 days,18,Weekly,Birtley,60,Road - liquid,Howdon,37,Road - liquid
+WwTW,LOW WADSWORTH STW,54.674600,-1.726500,WST1472,314,4.29,SB Cphos,Y,Y,N,-,N,12 hrs 7 days,29,Weekly,Willington,91,Road - liquid,Bran Sands,6,Road - liquid
+WwTW,LYNEMOUTH STW,55.211400,-1.530200,NST2342,236,3.47,SB,Y,Y,N,-,N,24 hrs 7 days,29,Weekly,Howdon,100,Road - liquid,,,
+WwTW,MARSKE STW,54.596200,-1.040000,TST6282,1677,4.13,CSAS,Y,Y,N,-,N,24 hrs 7 days,29,Daily,Bran Sands,98,Road - liquid,Portrack,2,Road - liquid
+WwTW,MORPETH STW,55.169200,-1.674700,NST1525,71,3.61,SB Cphos,Y,Y,N,-,Y,12 hrs 7 days,29,Weekly,Howdon,92,Road - liquid,Cambois,6,Road - liquid
+WwTW,NEWBIGGIN STW,55.175200,-1.521300,NST8642,872,3.83,SAS,Y,Y,Y,-,N,24 hrs 7 days,29,Daily,Howdon,100,Road - liquid,,,
+WwTW,PEGSWOOD STW,55.180700,-1.635500,NST1542,64,3.14,SB,Y,Y,N,-,N,12 hrs 7 days,29,Weekly,Howdon,97,Road - liquid,Birtley,3,Road - liquid
+WwTW,ROTHBURY STW,55.304600,-1.890200,NST1432,41,2.63,SB,Y,Y,N,-,N,12 hrs 7 days,18,Daily,Alnwick,50,Road - liquid,Howdon,48,Road - liquid
+WwTW,SACRISTON STW,54.824500,-1.617900,WST1642,95,3.67,SB,Y,Y,N,-,N,24 hrs 7 days,29,Daily,Howdon,99,Road - liquid,Hendon,1,Road - liquid
+WwTW,SEAHAM STW,54.822300,-1.329800,WST5002,972,4.43,SAS,Y,Y,N,-,N,24 hrs 7 days,29,Daily,Hendon,70,Road - liquid,Howdon,30,Road - liquid
+WwTW,SEAHOUSES STW,55.578400,-1.645100,NST2745,7,2.07,CSAS,Y,Y,N,-,N,24 hrs 7 days,29,Daily,Howdon,84,Road - liquid,Berwick,16,Road - liquid
+WwTW,SEATON CAREW STW,54.641900,-1.196600,TST7052,2732,3.60,SAS,Y,Y,N,-,N,24 hrs 7 days,29,Daily,Bran Sands,91,Road - liquid,Portrack,7,Road - liquid
+WwTW,SEDGEFIELD STW,54.645300,-1.444400,TST8092,99,3.35,SB,Y,Y,N,-,N,24 hrs 7 days,29,Daily,Bran Sands,68,Road - liquid,Portrack,25,Road - liquid
+WwTW,SEDGELETCH STW,54.851600,-1.495500,WST1662,1564,3.77,SAS Cphos,Y,Y,N,-,N,24 hrs 7 days,29,Daily,Howdon,84,Road - liquid,Hendon,16,Road - liquid
+WwTW,SHERBURN STW,54.770700,-1.508900,WST1672,91,2.18,SB,Y,Y,N,-,N,24 hrs 7 days,29,Daily,Howdon,93,Road - liquid,Hendon,6,Road - liquid
+WwTW,SKINNINGROVE STW,54.571800,-0.905000,TST9982,149,4.06,SB,Y,Y,N,-,N,24 hrs 7 days,29,Daily,Bran Sands,96,Road - liquid,Portrack,4,Road - liquid
+WwTW,STOKESLEY STW,54.462700,-1.194100,TST2182,215,1.98,SB Cphos,Y,Y,N,-,N,24 hrs 7 days,29,Weekly,Bran Sands,93,Road - liquid,Portrack,7,Road - liquid
+WwTW,STRESSHOLME STW,54.498500,-1.556300,TST5065,258,2.73,SB,Y,Y,N,-,Y,24 hrs 7 days,29,Daily,Bran Sands,99,Road - liquid,,,
+WwTW,TRIMDON STW,54.702500,-1.417800,TST8112,84,3.27,SB,Y,Y,N,-,N,12 hrs 7 days,18,Daily,Portrack,69,Road - liquid,Tudhoe Mill,18,Road - liquid
+WwTW,TUDHOE MILL STW,54.715400,-1.613300,WST1775,25,3.54,SAS Cphos,Y,Y,N,-,Y,24 hrs 7 days,29,Daily,Willington,86,Road - liquid,Bran Sands,10,Road - liquid
+WwTW,WASHINGTON STW,54.897200,-1.490500,WST1042,1599,3.09,SAS,Y,Y,N,-,N,24 hrs 7 days,29,Daily,Howdon,91,Road - liquid,Hendon,9,Road - liquid
+WwTW,WILLINGTON STW,54.706800,-1.678000,WST1875,0,1.09,SB,Y,Y,N,-,Y,24 hrs 7 days,29,Daily,Tudhoe Mill,100,Road - liquid,,,
+WwTW,WINDLESTONE STW,54.653800,-1.549400,TST8145,271,3.49,SB Cphos,Y,Y,Y,-,N,24 hrs 7 days,29,Twice Weekly,Bran Sands,61,Road - liquid,Portrack ,29,Road - liquid
+WwTW,WITTON GILBERT STW,54.800900,-1.642700,WST1902,205,3.86,SB,Y,Y,N,-,N,12 hrs 7 days,29,Weekly,Barkers Haugh,67,Road - liquid,Birtley,19,Road - liquid
+WwTW,WOLSINGHAM STW,54.717700,-1.842000,WST1932,39,4.09,SB,Y,Y,N,-,N,24 hrs 7 days,18,Weekly,Willington,98,Road - liquid,Tudhoe Mill,2,Road - liquid
+WwTW,WOOLER STW,55.554000,-2.005200,NST1172,73,2.54,SB Cphos,Y,Y,N,-,N,24 hrs 7 days,18,Weekly,Howdon,97,Road - liquid,Berwick,3,Road - liquid
+WwTW,HOWDON STW,54.990672,-1.476266,NST450,26316,3.87,SAS,Y,Y,N,,Y,24 hrs 7 days,N/A,Daily,Howdon,100,Pipeline,,,
+WwTW,BRAN SANDS,54.611355,-1.124814,TST999,15390,2.75,SAS,Y,Y,N,,Y,24 hrs 7 days,N/A,Daily,Bran Sands,100,Pipeline,,,
+sWwTW,ALDBROUGH STW,54.4931,-1.68024,TST5225,6,,SB,,,,,,,,,,,,,,
+sWwTW,ALDIN GRANGE STW,54.7829,-1.61553,WST1012,7,,SB,,,,,,,,,,,,,,
+sWwTW,ALDIN GRANGE SOUTH STW,54.7804,-1.61453,WST1022,1,,SB,,,,,,,,,,,,,,
+sWwTW,ALNMOUTH,55.3963,-1.62102,NST1282,3,,SB,,,,,,,,,,,,,,
+sWwTW,ARCHDEACON NEWTON stw,54.5489,-1.60736,TST5022   ,3,,SB,,,,,,,,,,,,,,
+sWwTW,BARDON MILL STW,54.9743,-2.34473,NST1942,0,,SB,,,,,,,,,,,,,,
+sWwTW,BARRASFORD STW,55.0527,-2.12877,NST1751   ,1,,SB,,,,,,,,,,,,,,
+sWwTW,BARTON STW,54.4762,-1.64416,TST5032,12,,SB,,,,,,,,,,,,,,
+sWwTW,BELFORD,55.5982,-1.81695,NST1152,5,,SB,,,,,,,,,,,,,,
+sWwTW,BELLINGHAM STW,55.1409,-2.25537,NST1592,2,,SB,,,,,,,,,,,,,,
+sWwTW,BELSAY STW,55.1034,-1.83766,NST1681,2,,SB,,,,,,,,,,,,,,
+sWwTW,BERWICK HILL STW,55.0733,-1.72858,NST1851,2,,SB,,,,,,,,,,,,,,
+sWwTW,BISHOP MIDDLEHAM STW,54.6716,-1.49221,TST8032,12,,SB,,,,,,,,,,,,,,
+sWwTW,BISHOPTON    STW,54.5869,-1.44286,TST1022,2,,SB,,,,,,,,,,,,,,
+sWwTW,BLANCHLAND STW,54.8476,-2.05036,NST2121   ,1,,SB,,,,,,,,,,,,,,
+sWwTW,BOULMER,55.4271,-1.60644,NB027,25,,SB,,,,,,,,,,,,,,
+sWwTW,BOWES STW,54.5144,-2.00473,TST3045   ,0,,SB,,,,,,,,,,,,,,
+sWwTW,BRASSIDE STW,54.8112,-1.55637,WST1082,44,,SB,,,,,,,,,,,,,,
+sWwTW,BUTTERKNWLE STW,54.6249,-1.82200,WST1492,31,,SB Cphos,,,,,,,,,,,,,,
+sWwTW,CALDWELL STW,54.5122,-1.74765,TST5042   ,1,,SB,,,,,,,,,,,,,,
+sWwTW,CARLTON IN CLEVELAND STW,54.4372,-1.21936,TST2041   ,1,,SB,,,,,,,,,,,,,,
+sWwTW,CASSOP STW,54.7391,-1.46875,WST1132,0,,SB,,,,,,,,,,,,,,
+sWwTW,CAUSEY ARCH STW,54.8992,-1.68316,NST3282,0,,SB,,,,,,,,,,,,,,
+sWwTW,CHATTON STW,55.5518,-1.91005,NST1191,0,,SB,,,,,,,,,,,,,,
+sWwTW,COALBURNS STW,54.9431,-1.80062,NST3052,21,,SB,,,,,,,,,,,,,,
+sWwTW,COCKFIELD STW,54.6182,-1.79224,WST1162,27,,SB Cphos,,,,,,,,,,,,,,
+sWwTW,DUNSTAN STW,55.4727,-1.60423,NST3202,1,,SB,,,,,,,,,,,,,,
+sWwTW,EDMONDSLEY STW,54.8429,-1.63164,WST1232,5,,SB,,,,,,,,,,,,,,
+sWwTW,EASt HEDLEYHOPE STW,54.7580,-1.75725,WST1212,0,,SB,,,,,,,,,,,,,,
+sWwTW,EAST HOWLE STW,54.6995,-1.54277,WSP204A,1,,SB,,,,,,,,,,,,,,
+sWwTW,EAST LAYTON STW,54.4855,-1.74681,TST5082   ,1,,SB,,,,,,,,,,,,,,
+sWwTW,EAST WOODBURN STW,55.1765,-2.14655,NST1491,0,,SB,,,,,,,,,,,,,,
+sWwTW,EDMUNDBYERS STW,54.8427,-1.97876,NST2151   ,1,,SB,,,,,,,,,,,,,,
+sWwTW,EGLINGHAM STW,55.4638,-1.82083,NST1242,1,,SB,,,,,,,,,,,,,,
+sWwTW,ELLINGHAM STW,55.5245,-1.73082,NST3272,1,,SB,,,,,,,,,,,,,,
+sWwTW,ELSDON STW,55.2311,-2.10042,NST2822,2,,SB,,,,,,,,,,,,,,
+sWwTW,EMBLETON,55.4898,-1.63310,NST1212,10,,SB,,,,,,,,,,,,,,
+sWwTW,EPPLEBY STW,54.5130,-1.72141,TST5092,5,,SB,,,,,,,,,,,,,,
+sWwTW,FIR TREE STW,54.7024,-1.78871,WST1272,0,,SB,,,,,,,,,,,,,,
+sWwTW,FONTBURN STW,55.2379,-1.92033,N0071     ,0,,SB,,,,,,,,,,,,,,
+sWwTW,FOURSTONES STW,55.0037,-2.17985,NST1891,0,,SB,,,,,,,,,,,,,,
+sWwTW,FROSTERLEY STW,54.7272,-1.93329,WST1882,6,,SB,,,,,,,,,,,,,,
+sWwTW,GAINFORD   STW,54.5423,-1.72802,TST3092,24,,SB,,,,,,,,,,,,,,
+sWwTW,GLANTON STW,55.4189,-1.89471,NST1261   ,2,,SB,,,,,,,,,,,,,,
+sWwTW,GREAT BROUGHTON STW,54.4566,-1.16609,TST2032,3,,SB,,,,,,,,,,,,,,
+sWwTW,GREATHAM STW,54.6380,-1.23709,TST4052,0,,SB,,,,,,,,,,,,,,
+sWwTW,GRIBDALE STW,54.4922,-1.09881,TST2252,0,,SB,,,,,,,,,,,,,,
+sWwTW,GUNNERTON STW,55.0691,-2.15172,NST1731,1,,SB,,,,,,,,,,,,,,
+sWwTW,HAWTHORN STW,54.8034,-1.33816,WST1292,6,,SB,,,,,,,,,,,,,,
+sWwTW,HAYDON BRIDGE STW,54.9751,-2.23485,NST1922,25,,SB,,,,,,,,,,,,,,
+sWwTW,HEBRON STW,55.1995,-1.69575,NST4121,5,,SB,,,,,,,,,,,,,,
+sWwTW,HEDDON ON THE WALL STW,54.9886,-1.78793,NST2222,16,,SB,,,,,,,,,,,,,,
+sWwTW,HEPSCOTT STW,55.1484,-1.64140,NST1602,5,,SB,,,,,,,,,,,,,,
+sWwTW,HEUGH HALL STW,54.7323,-1.51269,WST1332   ,0,,SB,,,,,,,,,,,,,,
+sWwTW,HOLMSIDE STW,54.8371,-1.66046,WST1362,0,,SB,,,,,,,,,,,,,,
+sWwTW,HORNBY STW,54.4464,-1.43561,TST5122   ,0,,SB,,,,,,,,,,,,,,
+sWwTW,HUMSHAUGH STW,55.0313,-2.12482,NST1872,0,,SB,,,,,,,,,,,,,,
+sWwTW,HUTTON MAGNA STW,54.5090,-1.80594,TST3112   ,1,,SB,,,,,,,,,,,,,,
+sWwTW,INGLEBY GREENHOW STW,54.4504,-1.10804,TST2091   ,1,,SB,,,,,,,,,,,,,,
+sWwTW,KIELDER LEAPLISH STW,55.1833,-2.53368,NST4942,0,,SB,,,,,,,,,,,,,,
+sWwTW,KIRKHARLE STW,55.1344,-1.98397,NST2712,0,,SB,,,,,,,,,,,,,,
+sWwTW,KIRKLEVINGTON STW,54.4843,-1.34052,TST2112,0,,SB,,,,,,,,,,,,,,
+sWwTW,KIRKWHELPTINGTON STW,55.1546,-2.00171,NST1571,1,,SB,,,,,,,,,,,,,,
+sWwTW,LAMBLEY STW,54.9211,-2.51119,NST2481,0,,SB,,,,,,,,,,,,,,
+sWwTW,LEAPLISH SKI CLUB STW,55.1833,-2.53368,NST4942,1,,SB,,,,,,,,,,,,,,
+sWwTW,LONGBYRE STW,54.9897,-2.53852,NST1982,0,,SB,,,,,,,,,,,,,,
+sWwTW,LONGHIRST VILLAGE,55.1926,-1.64739,NST1532,0,,SB,,,,,,,,,,,,,,
+sWwTW,LONGHORSLEY STW,55.2441,-1.75809,NST1452,8,,SB,,,,,,,,,,,,,,
+sWwTW,LONGNEWTON STW,54.5438,-1.39915,TST1052,10,,SB,,,,,,,,,,,,,,
+sWwTW,LOW WORSALL,54.4853,-1.39763,TST2201   ,1,,SB,,,,,,,,,,,,,,
+sWwTW,MANFIELD STW,54.5161,-1.65466,TST5152,2,,SB,,,,,,,,,,,,,,
+sWwTW,MATFEN STW,55.0413,-1.94703,NST1811,2,,SB,,,,,,,,,,,,,,
+sWwTW,MELSONBY STW,54.4694,-1.68520,TST5162,9,,SB,,,,,,,,,,,,,,
+sWwTW,MICKLETON STW,54.6104,-2.04245,TST3142,1,,SB,,,,,,,,,,,,,,
+sWwTW,MIDDLETON-IN-TEESDALE  STW,54.6197,-2.07597,TST3132,22,,SB,,,,,,,,,,,,,,
+sWwTW,MIDDLETON-ONE-ROW  STW,54.6943,-1.19239,TST5172   ,1,,SB,,,,,,,,,,,,,,
+sWwTW,MILLFIELD STW,55.6029,-2.09896,NST1141   ,1,,SB,,,,,,,,,,,,,,
+sWwTW,MOORSHOLME STW,54.5242,-0.93593,TST6042,0,,SB,,,,,,,,,,,,,,
+sWwTW,NENTHEAD STW,54.7922,-2.34663,NST2052,1,,SB,,,,,,,,,,,,,,
+sWwTW,NETHERTON STW,55.3619,-2.01562,NST3392,2,,SB,,,,,,,,,,,,,,
+sWwTW,NEWBY STW,54.5015,-1.22146,TST2131,0,,SB,,,,,,,,,,,,,,
+sWwTW,NEW MOORS STW,54.6108,-1.74179,WST1532,14,,SB,,,,,,,,,,,,,,
+sWwTW,NEWFIELD STW,54.6958,-1.69011,WST1522,1,,SB,,,,,,,,,,,,,,
+sWwTW,NEWTON STW,54.9730,-1.94510,NST2143,9,,SB,,,,,,,,,,,,,,
+sWwTW,NEWTON UNDER ROSEBERRY STW,54.5102,-1.12373,TST2142   ,0,,SB,,,,,,,,,,,,,,
+sWwTW,NEWTON-ON-THE-MOOR STW,55.3449,-1.72964,NNL8552,0,,SB,,,,,,,,,,,,,,
+sWwTW,NRHAM STW,55.7216,-2.15712,NST1042,0,,SB,,,,,,,,,,,,,,
+sWwTW,OTTERBURN STW,55.2278,-2.17213,NST1462,3,,SB,,,,,,,,,,,,,,
+sWwTW,PICKTREE STW,54.8698,-1.56387,WST2261,1,,SB,,,,,,,,,,,,,,
+sWwTW,PITTINGTON STW,54.7879,-1.48475,WST1572,21,,SB,,,,,,,,,,,,,,
+sWwTW,PITY ME STW,54.8072,-1.59299,WST1582,13,,SB,,,,,,,,,,,,,,
+sWwTW,PLAWSWORTH STW,54.8212,-1.59000,WST1592,22,,SB,,,,,,,,,,,,,,
+sWwTW,RAMSHAW STW,54.6283,-1.76363,WST1622,35,,SB Cphos,,,,,,,,,,,,,,
+sWwTW,REDESMOUTH STW,55.1346,-2.21511,NST2502,0,,SB,,,,,,,,,,,,,,
+sWwTW,RENNINGTON STW,55.4623,-1.66359,NST1232,0,,SB,,,,,,,,,,,,,,
+sWwTW,ROCHESTER STW,55.2760,-2.26497,NST3192,0,,SB,,,,,,,,,,,,,,
+sWwTW,ROOKHOPE STW,54.7716,-2.09108,WST1631   ,3,,SB,,,,,,,,,,,,,,
+sWwTW,ROTHBURY ENVIRONMENTAL STW,55.3080,-1.89732,NST1341,1,,SB,,,,,,,,,,,,,,
+sWwTW,SADBERGE  STW,54.5500,-1.47410,TST1072,5,,SB,,,,,,,,,,,,,,
+sWwTW,SATLEY STW,54.7892,-1.81460,WST1651,0,,SB,,,,,,,,,,,,,,
+sWwTW,SCOTS GAP STW,55.1692,-1.93541,NST1501   ,2,,SB,,,,,,,,,,,,,,
+sWwTW,SHERATON STW,54.7072,-1.31547,TST4072   ,0,,SB,,,,,,,,,,,,,,
+sWwTW,SHERBURN HOSPITAL STW,54.7691,-1.52428,WST1681,1,,SB,,,,,,,,,,,,,,
+sWwTW,SHILBOTTLE STW,55.3699,-1.6606,NST1302,3,,SB,,,,,,,,,,,,,,
+sWwTW,SLALEY STW,54.9102,-2.02709,NST2112,0,,SB,,,,,,,,,,,,,,
+sWwTW,SNITTER (& THROPTON) STW,55.3204,-1.95515,NST1411   ,1,,SB,,,,,,,,,,,,,,
+sWwTW,STAINDROP STW,54.5735,-1.78148,TST3202,22,,SB,,,,,,,,,,,,,,
+sWwTW,STAINTON  STW,54.5535,-1.89882,TST3242,7,,SB,,,,,,,,,,,,,,
+sWwTW,STAMFORDHAM STW,55.0416,-1.86966,NST2391,7,,SB,,,,,,,,,,,,,,
+sWwTW,STANHOPE STW,54.7367,-1.99269,WST1712,31,,SB,,,,,,,,,,,,,,
+sWwTW,SUMMERHOUSE STW,54.5659,-1.68740,TST5193   ,0,,SB,,,,,,,,,,,,,,
+sWwTW,SWAINBY STW,54.4186,-1.26538,TST2192,2,,SB,,,,,,,,,,,,,,
+sWwTW,TEESSIDE AIRPORT STW (GOOSEBECK),54.5208,-1.42584,TST5202,17,,SB,,,,,,,,,,,,,,
+sWwTW,TOGSTON STW,55.3073,-1.60808,NST1392,1,,SB,,,,,,,,,,,,,,
+sWwTW,TOW LAW STW,54.7413,-1.8237,WST1762,33,,SB,,,,,,,,,,,,,,
+sWwTW,ULGHAM STW,55.2268,-1.63214,NST1472,5,,SB,,,,,,,,,,,,,,
+sWwTW,UNIVERSITY STW,54.7562,-1.57610,WST1782,22,,SB,,,,,,,,,,,,,,
+sWwTW,USHAW MOOR STW,54.7804,-1.66207,WST1792,1,,SB,,,,,,,,,,,,,,
+sWwTW,WALL STW,55.0121,-2.13568,NST1882,0,,SB,,,,,,,,,,,,,,
+sWwTW,WARK STW ,55.0853,-2.21950,NST1721,2,,SB,,,,,,,,,,,,,,
+sWwTW,WEAR VALLEY JUNCTION STW ,54.6797,-1.74543,WST1831,1,,SB,,,,,,,,,,,,,,
+sWwTW,WEST WOODBURN STW,55.1754,-2.17424,NST1481,1,,SB,,,,,,,,,,,,,,
+sWwTW,WHALTON STW,55.1218,-1.80671,NST1671,2,,SB,,,,,,,,,,,,,,
+sWwTW,WHITTINGHAM STW,55.4024,-1.88959,NST1292,1,,SB,,,,,,,,,,,,,,
+sWwTW,WHITTLE COLLIERY STW,55.3533,-1.72621,NST8742,3,,SB,,,,,,,,,,,,,,
+sWwTW,WHORLTON STW,54.5268,-1.83529,TST3222,1,,SB,,,,,,,,,,,,,,
+sWwTW,WINDMILL STW,54.6502,-1.78871,WST1892,0,,SB,,,,,,,,,,,,,,
+sWwTW,WOOLEY HOSPITAL STW,54.9304,-2.04854,NST8572,0,,SB,,,,,,,,,,,,,,

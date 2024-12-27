@@ -1,0 +1,3073 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Southern Water Sewage Works Location Map </name>
+    <description/>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Medium Sewage Works </name>
+      <Placemark>
+        <name>ASHFORD WTW</name>
+        <description><![CDATA[Lat: 51.15291<br>Long: 0.88739903<br>Asset ID: 101753]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>51.15291</value>
+          </Data>
+          <Data name="Long">
+            <value>0.88739903</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>101753</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.88739903,51.15291,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ASHINGTON WTW</name>
+        <description><![CDATA[Lat: 50.92911<br>Long: -0.3848486<br>Asset ID: 101675]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>50.92911</value>
+          </Data>
+          <Data name="Long">
+            <value>-0.3848486</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>101675</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.3848486,50.92911,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ASHLETT CREEK FAWLEY WTW</name>
+        <description><![CDATA[Lat: 50.82508<br>Long: -1.3408897<br>Asset ID: 102314]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>50.82508</value>
+          </Data>
+          <Data name="Long">
+            <value>-1.3408897</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>102314</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.3408897,50.82508,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AYLESFORD WTW</name>
+        <description><![CDATA[Lat: 51.30860<br>Long: 0.46778128<br>Asset ID: 101208]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>51.30860</value>
+          </Data>
+          <Data name="Long">
+            <value>0.46778128</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>101208</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.46778128,51.3086,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BARTON STACEY WTW</name>
+        <description><![CDATA[Lat: 51.17714<br>Long: -1.3778668<br>Asset ID: 103056]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>51.17714</value>
+          </Data>
+          <Data name="Long">
+            <value>-1.3778668</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>103056</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.3778668,51.17714,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BATTLE WTW</name>
+        <description><![CDATA[Lat: 50.91842<br>Long: 0.49905372<br>Asset ID: 102534]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>50.91842</value>
+          </Data>
+          <Data name="Long">
+            <value>0.49905372</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>102534</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.49905372,50.91842,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BEXHILL AND HASTINGS WTW</name>
+        <description><![CDATA[Lat: 50.85711<br>Long: 0.508463241<br>Asset ID: 107431]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>50.85711</value>
+          </Data>
+          <Data name="Long">
+            <value>0.508463241</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>107431</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.508463241,50.85711,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BIDBOROUGH WTW</name>
+        <description><![CDATA[Lat: 51.16093<br>Long: 0.23200101<br>Asset ID: 102931]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>51.16093</value>
+          </Data>
+          <Data name="Long">
+            <value>0.23200101</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>102931</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.23200101,51.16093,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BILLINGSHURST WTW</name>
+        <description><![CDATA[Lat: 51.01212<br>Long: -0.4653335<br>Asset ID: 101238]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>51.01212</value>
+          </Data>
+          <Data name="Long">
+            <value>-0.4653335</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>101238</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.4653335,51.01212,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BISHOPS WALTHAM WTW</name>
+        <description><![CDATA[Lat: 50.94118<br>Long: -1.2296955<br>Asset ID: 100041]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>50.94118</value>
+          </Data>
+          <Data name="Long">
+            <value>-1.2296955</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>100041</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.2296955,50.94118,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BOSHAM WTW</name>
+        <description><![CDATA[Lat: 50.81587<br>Long: -0.8539794<br>Asset ID: 100609]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>50.81587</value>
+          </Data>
+          <Data name="Long">
+            <value>-0.8539794</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>100609</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.8539794,50.81587,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BROCKENHURST WTW</name>
+        <description><![CDATA[Lat: 50.82310<br>Long: -1.5603474<br>Asset ID: 102387]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>50.82310</value>
+          </Data>
+          <Data name="Long">
+            <value>-1.5603474</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>102387</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.5603474,50.8231,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BROOMFIELD BANK WTW</name>
+        <description><![CDATA[Lat: 51.11461<br>Long: 1.26337553<br>Asset ID: 100206]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>51.11461</value>
+          </Data>
+          <Data name="Long">
+            <value>1.26337553</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>100206</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            1.26337553,51.11461,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BUDDS FARM HAVANT WTW</name>
+        <description><![CDATA[Lat: 50.84532<br>Long: -0.99561413<br>Asset ID: 102480]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>50.84532</value>
+          </Data>
+          <Data name="Long">
+            <value>-0.99561413</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>102480</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.99561413,50.84532,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CANTERBURY WTW</name>
+        <description><![CDATA[Lat: 51.29513<br>Long: 1.10831011<br>Asset ID: 101631]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>51.29513</value>
+          </Data>
+          <Data name="Long">
+            <value>1.10831011</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>101631</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            1.10831011,51.29513,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CHARTHAM WTW</name>
+        <description><![CDATA[Lat: 51.25891<br>Long: 0.0333865847<br>Asset ID: 101466]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>51.25891</value>
+          </Data>
+          <Data name="Long">
+            <value>0.0333865847</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>101466</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.0333865847,51.25891,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CHICHESTER WTW</name>
+        <description><![CDATA[Lat: 50.82851<br>Long: -0.8058328<br>Asset ID: 100834]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>50.82851</value>
+          </Data>
+          <Data name="Long">
+            <value>-0.8058328</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>100834</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.8058328,50.82851,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CHICKENHALL EASTLEIGH WTW</name>
+        <description><![CDATA[Lat: 50.96044<br>Long: -1.3388051<br>Asset ID: 101307]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>50.96044</value>
+          </Data>
+          <Data name="Long">
+            <value>-1.3388051</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>101307</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.3388051,50.96044,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>COXHEATH WTW</name>
+        <description><![CDATA[Lat: 51.24097<br>Long: 0.506341703<br>Asset ID: 102519]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>51.24097</value>
+          </Data>
+          <Data name="Long">
+            <value>0.506341703</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>102519</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.506341703,51.24097,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CRANBROOK WTW</name>
+        <description><![CDATA[Lat: 51.09692<br>Long: 0.54403498<br>Asset ID: 101324]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>51.09692</value>
+          </Data>
+          <Data name="Long">
+            <value>0.54403498</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>101324</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.54403498,51.09692,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DAMBRIDGE WINGHAM WTW</name>
+        <description><![CDATA[Lat: 51.27121<br>Long: 1.22853405<br>Asset ID: 101877]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>51.27121</value>
+          </Data>
+          <Data name="Long">
+            <value>1.22853405</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>101877</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            1.22853405,51.27121,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DITTON WTW</name>
+        <description><![CDATA[Lat: 51.30364<br>Long: 0.45097237<br>Asset ID: 103234]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>51.30364</value>
+          </Data>
+          <Data name="Long">
+            <value>0.45097237</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>103234</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.45097237,51.30364,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DYMCHURCH WTW</name>
+        <description><![CDATA[Lat: 51.04700<br>Long: 1.01605064<br>Asset ID: 102993]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>51.04700</value>
+          </Data>
+          <Data name="Long">
+            <value>1.01605064</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>102993</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            1.01605064,51.047,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EAST WORTHING WTW</name>
+        <description><![CDATA[Lat: 50.82026<br>Long: -0.3413577<br>Asset ID: 101376]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>50.82026</value>
+          </Data>
+          <Data name="Long">
+            <value>-0.3413577</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>101376</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.3413577,50.82026,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EASTBOURNE WTW</name>
+        <description><![CDATA[Lat: 50.78493<br>Long: 0.32692328<br>Asset ID: 100174]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>50.78493</value>
+          </Data>
+          <Data name="Long">
+            <value>0.32692328</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>100174</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.32692328,50.78493,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EASTCHURCH WTW</name>
+        <description><![CDATA[Lat: 51.38926<br>Long: 0.84360882<br>Asset ID: 100505]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>51.38926</value>
+          </Data>
+          <Data name="Long">
+            <value>0.84360882</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>100505</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.84360882,51.38926,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDEN VALE EAST GRINSTEAD WTW</name>
+        <description><![CDATA[Lat: 51.14061<br>Long: -0.0105107<br>Asset ID: 102997]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>51.14061</value>
+          </Data>
+          <Data name="Long">
+            <value>-0.0105107</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>102997</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.0105107,51.14061,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDENBRIDGE WTW</name>
+        <description><![CDATA[Lat: 51.20609<br>Long: 0.07857777<br>Asset ID: 100644]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>51.20609</value>
+          </Data>
+          <Data name="Long">
+            <value>0.07857777</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>100644</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.07857777,51.20609,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FAVERSHAM WTW</name>
+        <description><![CDATA[Lat: 51.32286<br>Long: 0.91050956<br>Asset ID: 100668]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>51.32286</value>
+          </Data>
+          <Data name="Long">
+            <value>0.91050956</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>100668</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.91050956,51.32286,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FELBRIDGE WTW</name>
+        <description><![CDATA[Lat: 51.15286<br>Long: -0.05459845<br>Asset ID: 102289]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>51.15286</value>
+          </Data>
+          <Data name="Long">
+            <value>-0.05459845</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>102289</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.05459845,51.15286,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FORD WTW</name>
+        <description><![CDATA[Lat: 50.81832<br>Long: -0.5890157<br>Asset ID: 107426]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>50.81832</value>
+          </Data>
+          <Data name="Long">
+            <value>-0.5890157</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>107426</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.5890157,50.81832,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FOREST ROW WTW</name>
+        <description><![CDATA[Lat: 51.09795<br>Long: 0.0781664<br>Asset ID: 100060]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>51.09795</value>
+          </Data>
+          <Data name="Long">
+            <value>0.0781664</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>100060</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.0781664,51.09795,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FULLERTON WTW</name>
+        <description><![CDATA[Lat: 51.17177<br>Long: -1.47407714<br>Asset ID: 101246]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>51.17177</value>
+          </Data>
+          <Data name="Long">
+            <value>-1.47407714</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>101246</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.47407714,51.17177,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GODDARDS GREEN WTW</name>
+        <description><![CDATA[Lat: 50.97015<br>Long: -0.16413907<br>Asset ID: 101905]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>50.97015</value>
+          </Data>
+          <Data name="Long">
+            <value>-0.16413907</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>101905</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.16413907,50.97015,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GODSTONE WTW</name>
+        <description><![CDATA[Lat: 51.23649<br>Long: -0.0436247<br>Asset ID: 101944]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>51.23649</value>
+          </Data>
+          <Data name="Long">
+            <value>-0.0436247</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>101944</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.0436247,51.23649,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GRAVESEND WTW</name>
+        <description><![CDATA[Lat: 51.43980<br>Long: 0.39589028<br>Asset ID: 101794]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>51.43980</value>
+          </Data>
+          <Data name="Long">
+            <value>0.39589028</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>101794</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.39589028,51.4398,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HAILSHAM NORTH WTW</name>
+        <description><![CDATA[Lat: 50.87337<br>Long: 0.27236292<br>Asset ID: 100532]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>50.87337</value>
+          </Data>
+          <Data name="Long">
+            <value>0.27236292</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>100532</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.27236292,50.87337,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HAILSHAM SOUTH WTW</name>
+        <description><![CDATA[Lat: 50.85329<br>Long: 0.26975279<br>Asset ID: 103000]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>50.85329</value>
+          </Data>
+          <Data name="Long">
+            <value>0.26975279</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>103000</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.26975279,50.85329,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HAM HILL WTW</name>
+        <description><![CDATA[Lat: 51.32202<br>Long: 0.44586662<br>Asset ID: 102708]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>51.32202</value>
+          </Data>
+          <Data name="Long">
+            <value>0.44586662</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>102708</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.44586662,51.32202,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HARESTOCK WTW</name>
+        <description><![CDATA[Lat: 51.08855<br>Long: -1.3278842<br>Asset ID: 101718]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>51.08855</value>
+          </Data>
+          <Data name="Long">
+            <value>-1.3278842</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>101718</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.3278842,51.08855,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HEADCORN WTW</name>
+        <description><![CDATA[Lat: 51.16941<br>Long: 0.5998258<br>Asset ID: 100311]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>51.16941</value>
+          </Data>
+          <Data name="Long">
+            <value>0.5998258</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>100311</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.5998258,51.16941,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HENFIELD WTW</name>
+        <description><![CDATA[Lat: 50.94137<br>Long: -0.2677313<br>Asset ID: 100686]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>50.94137</value>
+          </Data>
+          <Data name="Long">
+            <value>-0.2677313</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>100686</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.2677313,50.94137,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HORSHAM NEW WTW</name>
+        <description><![CDATA[Lat: 51.05428<br>Long: -0.3619624<br>Asset ID: 102406]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>51.05428</value>
+          </Data>
+          <Data name="Long">
+            <value>-0.3619624</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>102406</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.3619624,51.05428,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HORSMONDEN WTW</name>
+        <description><![CDATA[Lat: 51.13884<br>Long: 0.4583305<br>Asset ID: 100728]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>51.13884</value>
+          </Data>
+          <Data name="Long">
+            <value>0.4583305</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>100728</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.4583305,51.13884,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>IVY DOWN LANE OAKLEY WTW</name>
+        <description><![CDATA[Lat: 51.25607<br>Long: -1.1919412<br>Asset ID: 103121]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>51.25607</value>
+          </Data>
+          <Data name="Long">
+            <value>-1.1919412</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>103121</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.1919412,51.25607,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LEEDS WTW</name>
+        <description><![CDATA[Lat: 51.25144<br>Long: 0.61087192<br>Asset ID: 102511]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>51.25144</value>
+          </Data>
+          <Data name="Long">
+            <value>0.61087192</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>102511</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.61087192,51.25144,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LENHAM WTW</name>
+        <description><![CDATA[Lat: 51.22568<br>Long: 0.726295<br>Asset ID: 102287]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>51.22568</value>
+          </Data>
+          <Data name="Long">
+            <value>0.726295</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>102287</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.726295,51.22568,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LIDSEY WTW</name>
+        <description><![CDATA[Lat: 50.82216<br>Long: -0.6593064<br>Asset ID: 101468]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>50.82216</value>
+          </Data>
+          <Data name="Long">
+            <value>-0.6593064</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>101468</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.6593064,50.82216,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LINGFIELD WTW</name>
+        <description><![CDATA[Lat: 51.18709<br>Long: -0.01648117<br>Asset ID: 103158]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>51.18709</value>
+          </Data>
+          <Data name="Long">
+            <value>-0.01648117</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>103158</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.01648117,51.18709,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LISS WTW</name>
+        <description><![CDATA[Lat: 51.03819<br>Long: -0.9001236<br>Asset ID: 103117]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>51.03819</value>
+          </Data>
+          <Data name="Long">
+            <value>-0.9001236</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>103117</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.9001236,51.03819,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LOXWOOD WTW</name>
+        <description><![CDATA[Lat: 51.06572<br>Long: -0.5065202<br>Asset ID: 101022]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>51.06572</value>
+          </Data>
+          <Data name="Long">
+            <value>-0.5065202</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>101022</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.5065202,51.06572,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LUDGERSHALL WTW</name>
+        <description><![CDATA[Lat: 51.24649<br>Long: -1.6127562<br>Asset ID: 101055]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>51.24649</value>
+          </Data>
+          <Data name="Long">
+            <value>-1.6127562</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>101055</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.6127562,51.24649,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LUXFORDS LANE EAST GRINSTEAD WTW</name>
+        <description><![CDATA[Lat: 51.10993<br>Long: 0.00542922<br>Asset ID: 101662]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>51.10993</value>
+          </Data>
+          <Data name="Long">
+            <value>0.00542922</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>101662</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.00542922,51.10993,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LYDD WTW</name>
+        <description><![CDATA[Lat: 50.94763<br>Long: 0.88828513<br>Asset ID: 102466]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>50.94763</value>
+          </Data>
+          <Data name="Long">
+            <value>0.88828513</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>102466</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.88828513,50.94763,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LYNDHURST WTW</name>
+        <description><![CDATA[Lat: 50.88017<br>Long: -1.5596413<br>Asset ID: 102223]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>50.88017</value>
+          </Data>
+          <Data name="Long">
+            <value>-1.5596413</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>102223</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.5596413,50.88017,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MAY STREET HERNE BAY WTW</name>
+        <description><![CDATA[Lat: 51.36285<br>Long: 1.17102744<br>Asset ID: 100070]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>51.36285</value>
+          </Data>
+          <Data name="Long">
+            <value>1.17102744</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>100070</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            1.17102744,51.36285,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MILFORD ROAD PENNINGTON WTW</name>
+        <description><![CDATA[Lat: 50.73891<br>Long: -1.5644239<br>Asset ID: 102201]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>50.73891</value>
+          </Data>
+          <Data name="Long">
+            <value>-1.5644239</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>102201</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.5644239,50.73891,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MILLBROOK WTW</name>
+        <description><![CDATA[Lat: 50.91161<br>Long: -1.448711<br>Asset ID: 100368]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>50.91161</value>
+          </Data>
+          <Data name="Long">
+            <value>-1.448711</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>100368</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.448711,50.91161,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MINSTER IOT WTW</name>
+        <description><![CDATA[Lat: 51.32064<br>Long: 1.31193383<br>Asset ID: 100544]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>51.32064</value>
+          </Data>
+          <Data name="Long">
+            <value>1.31193383</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>100544</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            1.31193383,51.32064,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MORESTEAD ROAD WINCHESTER WTW</name>
+        <description><![CDATA[Lat: 51.04871<br>Long: -1.3047513<br>Asset ID: 100665]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>51.04871</value>
+          </Data>
+          <Data name="Long">
+            <value>-1.3047513</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>100665</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.3047513,51.04871,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MOTNEY HILL WTW</name>
+        <description><![CDATA[Lat: 51.38505<br>Long: 0.62788502<br>Asset ID: 100710]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>51.38505</value>
+          </Data>
+          <Data name="Long">
+            <value>0.62788502</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>100710</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.62788502,51.38505,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NEAVES LANE RINGMER WTW</name>
+        <description><![CDATA[Lat: 50.89351<br>Long: 0.07922079<br>Asset ID: 101776]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>50.89351</value>
+          </Data>
+          <Data name="Long">
+            <value>0.07922079</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>101776</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.07922079,50.89351,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NEW ALRESFORD WTW</name>
+        <description><![CDATA[Lat: 51.07212<br>Long: -1.1580548<br>Asset ID: 101574]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>51.07212</value>
+          </Data>
+          <Data name="Long">
+            <value>-1.1580548</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>101574</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.1580548,51.07212,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NEW ROMNEY WTW</name>
+        <description><![CDATA[Lat: 50.97764<br>Long: 0.95172599<br>Asset ID: 101165]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>50.97764</value>
+          </Data>
+          <Data name="Long">
+            <value>0.95172599</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>101165</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.95172599,50.97764,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NEWBURY LANE CUCKFIELD WTW</name>
+        <description><![CDATA[Lat: 50.99908<br>Long: -0.1452816<br>Asset ID: 103106]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>50.99908</value>
+          </Data>
+          <Data name="Long">
+            <value>-0.1452816</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>103106</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.1452816,50.99908,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NEWHAVEN MAIN WTW</name>
+        <description><![CDATA[Lat: 50.78780<br>Long: 0.0594599<br>Asset ID: 108157]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>50.78780</value>
+          </Data>
+          <Data name="Long">
+            <value>0.0594599</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>108157</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.0594599,50.7878,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NEWICK WTW</name>
+        <description><![CDATA[Lat: 50.97808<br>Long: 0.02282007<br>Asset ID: 100387]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>50.97808</value>
+          </Data>
+          <Data name="Long">
+            <value>0.02282007</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>100387</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.02282007,50.97808,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NEWNHAM VALLEY PRESTON WTW</name>
+        <description><![CDATA[Lat: 51.30522<br>Long: 1.20411652<br>Asset ID: 101166]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>51.30522</value>
+          </Data>
+          <Data name="Long">
+            <value>1.20411652</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>101166</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            1.20411652,51.30522,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NORTHFLEET WTW</name>
+        <description><![CDATA[Lat: 51.43690<br>Long: 0.32965029<br>Asset ID: 100942]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>51.43690</value>
+          </Data>
+          <Data name="Long">
+            <value>0.32965029</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>100942</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.32965029,51.4369,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>OVERTON WTW</name>
+        <description><![CDATA[Lat: 51.24776<br>Long: -1.2792279<br>Asset ID: 103102]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>51.24776</value>
+          </Data>
+          <Data name="Long">
+            <value>-1.2792279</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>103102</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.2792279,51.24776,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>OXTED WTW</name>
+        <description><![CDATA[Lat: 51.23410<br>Long: 0.00265756<br>Asset ID: 101679]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>51.23410</value>
+          </Data>
+          <Data name="Long">
+            <value>0.00265756</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>101679</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.00265756,51.2341,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PADDOCK WOOD WTW</name>
+        <description><![CDATA[Lat: 51.18201<br>Long: 0.40026912<br>Asset ID: 100446]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>51.18201</value>
+          </Data>
+          <Data name="Long">
+            <value>0.40026912</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>100446</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.40026912,51.18201,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PEACEHAVEN WTW</name>
+        <description><![CDATA[Lat: 50.795951<br>Long: 0.018384<br>Asset ID: 111593]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>50.795951</value>
+          </Data>
+          <Data name="Long">
+            <value>0.018384</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>111593</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.018384,50.795951,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PEEL COMMON WTW</name>
+        <description><![CDATA[Lat: 50.82648<br>Long: -1.1991708<br>Asset ID: 100592]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>50.82648</value>
+          </Data>
+          <Data name="Long">
+            <value>-1.1991708</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>100592</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.1991708,50.82648,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PEMBURY WTW</name>
+        <description><![CDATA[Lat: 51.15906<br>Long: 0.34821708<br>Asset ID: 103159]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>51.15906</value>
+          </Data>
+          <Data name="Long">
+            <value>0.34821708</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>103159</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.34821708,51.15906,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PETERSFIELD WTW</name>
+        <description><![CDATA[Lat: 51.00046<br>Long: -0.9063315<br>Asset ID: 100164]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>51.00046</value>
+          </Data>
+          <Data name="Long">
+            <value>-0.9063315</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>100164</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.9063315,51.00046,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PORTSWOOD WTW</name>
+        <description><![CDATA[Lat: 50.92970<br>Long: -1.382571<br>Asset ID: 100521]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>50.92970</value>
+          </Data>
+          <Data name="Long">
+            <value>-1.382571</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>100521</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.382571,50.9297,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PULBOROUGH WTW</name>
+        <description><![CDATA[Lat: 50.95165<br>Long: -0.4886969<br>Asset ID: 101932]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>50.95165</value>
+          </Data>
+          <Data name="Long">
+            <value>-0.4886969</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>101932</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.4886969,50.95165,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>QUEENBOROUGH WTW</name>
+        <description><![CDATA[Lat: 51.40274<br>Long: 0.74289724<br>Asset ID: 100504]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>51.40274</value>
+          </Data>
+          <Data name="Long">
+            <value>0.74289724</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>100504</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.74289724,51.40274,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>REDGATE MILL CROWBOROUGH WTW</name>
+        <description><![CDATA[Lat: 51.06636<br>Long: 0.21366155<br>Asset ID: 102088]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>51.06636</value>
+          </Data>
+          <Data name="Long">
+            <value>0.21366155</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>102088</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.21366155,51.06636,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ROMSEY WTW</name>
+        <description><![CDATA[Lat: 50.98685<br>Long: -1.5145227<br>Asset ID: 100793]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>50.98685</value>
+          </Data>
+          <Data name="Long">
+            <value>-1.5145227</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>100793</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.5145227,50.98685,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RYE WTW</name>
+        <description><![CDATA[Lat: 50.94493<br>Long: 0.743830556<br>Asset ID: 103192]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>50.94493</value>
+          </Data>
+          <Data name="Long">
+            <value>0.743830556</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>103192</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.743830556,50.94493,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SANDOWN NEW WTW</name>
+        <description><![CDATA[Lat: 50.66360<br>Long: -1.148504<br>Asset ID: 108922]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>50.66360</value>
+          </Data>
+          <Data name="Long">
+            <value>-1.148504</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>108922</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.148504,50.6636,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SCAYNES HILL WTW</name>
+        <description><![CDATA[Lat: 51.00271<br>Long: -0.0395358<br>Asset ID: 100676]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>51.00271</value>
+          </Data>
+          <Data name="Long">
+            <value>-0.0395358</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>100676</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.0395358,51.00271,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SELLINDGE WTW</name>
+        <description><![CDATA[Lat: 51.10541<br>Long: 0.97998979<br>Asset ID: 101167]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>51.10541</value>
+          </Data>
+          <Data name="Long">
+            <value>0.97998979</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>101167</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.97998979,51.10541,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SHOREHAM WTW</name>
+        <description><![CDATA[Lat: 50.82914<br>Long: -0.2318153<br>Asset ID: 103237]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>50.82914</value>
+          </Data>
+          <Data name="Long">
+            <value>-0.2318153</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>103237</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.2318153,50.82914,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIDLESHAM WTW</name>
+        <description><![CDATA[Lat: 50.75452<br>Long: -0.7975226<br>Asset ID: 102205]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>50.75452</value>
+          </Data>
+          <Data name="Long">
+            <value>-0.7975226</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>102205</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.7975226,50.75452,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SITTINGBOURNE WTW</name>
+        <description><![CDATA[Lat: 51.35010<br>Long: 0.74433354<br>Asset ID: 103224]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>51.35010</value>
+          </Data>
+          <Data name="Long">
+            <value>0.74433354</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>103224</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.74433354,51.3501,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SLOWHILL COPSE MARCHWOOD WTW</name>
+        <description><![CDATA[Lat: 50.89817<br>Long: -1.4563215<br>Asset ID: 103202]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>50.89817</value>
+          </Data>
+          <Data name="Long">
+            <value>-1.4563215</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>103202</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.4563215,50.89817,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SOUTH AMBERSHAM WTW</name>
+        <description><![CDATA[Lat: 50.98092<br>Long: -0.6931613<br>Asset ID: 100115]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>50.98092</value>
+          </Data>
+          <Data name="Long">
+            <value>-0.6931613</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>100115</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.6931613,50.98092,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>STAPLEHURST WTW</name>
+        <description><![CDATA[Lat: 51.17206<br>Long: 0.55861331<br>Asset ID: 101943]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>51.17206</value>
+          </Data>
+          <Data name="Long">
+            <value>0.55861331</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>101943</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.55861331,51.17206,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>STEYNING WTW</name>
+        <description><![CDATA[Lat: 50.89579<br>Long: -0.3153832<br>Asset ID: 100697]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>50.89579</value>
+          </Data>
+          <Data name="Long">
+            <value>-0.3153832</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>100697</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.3153832,50.89579,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>STORRINGTON WTW</name>
+        <description><![CDATA[Lat: 50.92823<br>Long: -0.46981876<br>Asset ID: 103208]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>50.92823</value>
+          </Data>
+          <Data name="Long">
+            <value>-0.46981876</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>103208</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.46981876,50.92823,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SUMMER LANE PAGHAM WTW</name>
+        <description><![CDATA[Lat: 50.78288<br>Long: -0.7473456<br>Asset ID: 100093]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>50.78288</value>
+          </Data>
+          <Data name="Long">
+            <value>-0.7473456</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>100093</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.7473456,50.78288,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SWALECLIFFE WTW</name>
+        <description><![CDATA[Lat: 51.36514<br>Long: 1.06240331<br>Asset ID: 102571]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>51.36514</value>
+          </Data>
+          <Data name="Long">
+            <value>1.06240331</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>102571</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            1.06240331,51.36514,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TANGMERE WTW</name>
+        <description><![CDATA[Lat: 50.85119<br>Long: -0.6979822<br>Asset ID: 101474]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>50.85119</value>
+          </Data>
+          <Data name="Long">
+            <value>-0.6979822</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>101474</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.6979822,50.85119,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TENTERDEN WTW</name>
+        <description><![CDATA[Lat: 51.06184<br>Long: 0.66391665<br>Asset ID: 101364]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>51.06184</value>
+          </Data>
+          <Data name="Long">
+            <value>0.66391665</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>101364</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.66391665,51.06184,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>THORNHAM WTW</name>
+        <description><![CDATA[Lat: 50.84037<br>Long: -0.9263979<br>Asset ID: 101163]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>50.84037</value>
+          </Data>
+          <Data name="Long">
+            <value>-0.9263979</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>101163</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.9263979,50.84037,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TONBRIDGE WTW</name>
+        <description><![CDATA[Lat: 51.19262<br>Long: 0.28839363<br>Asset ID: 100480]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>51.19262</value>
+          </Data>
+          <Data name="Long">
+            <value>0.28839363</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>100480</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.28839363,51.19262,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TUNBRIDGE WELLS NORTH WTW</name>
+        <description><![CDATA[Lat: 51.15695<br>Long: 0.28854316<br>Asset ID: 102261]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>51.15695</value>
+          </Data>
+          <Data name="Long">
+            <value>0.28854316</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>102261</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.28854316,51.15695,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TUNBRIDGE WELLS SOUTH WTW</name>
+        <description><![CDATA[Lat: 51.12121<br>Long: 0.20590714<br>Asset ID: 100248]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>51.12121</value>
+          </Data>
+          <Data name="Long">
+            <value>0.20590714</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>100248</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.20590714,51.12121,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>UCKFIELD WTW</name>
+        <description><![CDATA[Lat: 50.96575<br>Long: 0.08423842<br>Asset ID: 102603]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>50.96575</value>
+          </Data>
+          <Data name="Long">
+            <value>0.08423842</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>102603</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.08423842,50.96575,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>VINES CROSS WTW</name>
+        <description><![CDATA[Lat: 50.93049<br>Long: 0.268556887<br>Asset ID: 100550]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>50.93049</value>
+          </Data>
+          <Data name="Long">
+            <value>0.268556887</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>100550</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.268556887,50.93049,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>WATERINGBURY WTW</name>
+        <description><![CDATA[Lat: 51.25145<br>Long: 0.430453271<br>Asset ID: 101286]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>51.25145</value>
+          </Data>
+          <Data name="Long">
+            <value>0.430453271</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>101286</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.430453271,51.25145,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>WEATHERLEES HILL A WTW</name>
+        <description><![CDATA[Lat: 51.31669<br>Long: 1.345251907<br>Asset ID: 101814]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>51.31669</value>
+          </Data>
+          <Data name="Long">
+            <value>1.345251907</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>101814</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            1.345251907,51.31669,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>WEATHERLEES HILL B WTW</name>
+        <description><![CDATA[Lat: 51.316109<br>Long: 1.346901<br>Asset ID: 110610]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>51.316109</value>
+          </Data>
+          <Data name="Long">
+            <value>1.346901</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>110610</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            1.346901,51.316109,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HYTHE WTW</name>
+        <description><![CDATA[Lat: 51.05877<br>Long: 1.03362913<br>Asset ID: 103282]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>51.05877</value>
+          </Data>
+          <Data name="Long">
+            <value>1.03362913</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>103282</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            1.03362913,51.05877,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>WEST WELLOW WTW</name>
+        <description><![CDATA[Lat: 50.97081<br>Long: -1.550323<br>Asset ID: 100359]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>50.97081</value>
+          </Data>
+          <Data name="Long">
+            <value>-1.550323</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>100359</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.550323,50.97081,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>WESTBERE WTW</name>
+        <description><![CDATA[Lat: 51.30864<br>Long: 1.15681019<br>Asset ID: 102079]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>51.30864</value>
+          </Data>
+          <Data name="Long">
+            <value>1.15681019</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>102079</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            1.15681019,51.30864,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>WHITCHURCH WTW</name>
+        <description><![CDATA[Lat: 51.21854<br>Long: -1.3333078<br>Asset ID: 102274]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>51.21854</value>
+          </Data>
+          <Data name="Long">
+            <value>-1.3333078</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>102274</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.3333078,51.21854,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>WHITEWALL CREEK WTW</name>
+        <description><![CDATA[Lat: 51.40347<br>Long: 0.516022588<br>Asset ID: 102535]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>51.40347</value>
+          </Data>
+          <Data name="Long">
+            <value>0.516022588</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>102535</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.516022588,51.40347,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>WOOLSTON WTW</name>
+        <description><![CDATA[Lat: 50.89189<br>Long: -1.3827015<br>Asset ID: 102604]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>50.89189</value>
+          </Data>
+          <Data name="Long">
+            <value>-1.3827015</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>102604</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.3827015,50.89189,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Unknown STW</name>
+        <description><![CDATA[Lat: 50.7182139<br>Long: -1.2837316<br>Asset ID: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>50.7182139</value>
+          </Data>
+          <Data name="Long">
+            <value>-1.2837316</value>
+          </Data>
+          <Data name="Asset ID">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.2837316,50.7182139,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Sludge Treatment Centres </name>
+      <Placemark>
+        <name>ASHFORD STC</name>
+        <description><![CDATA[Lat: 51.15291<br>Long: 0.88739903<br>Asset ID: 107419]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>51.15291</value>
+          </Data>
+          <Data name="Long">
+            <value>0.88739903</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>107419</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.88739903,51.15291,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AYLESFORD STC</name>
+        <description><![CDATA[Lat: 51.30860<br>Long: 0.46778128<br>Asset ID: 109240]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>51.30860</value>
+          </Data>
+          <Data name="Long">
+            <value>0.46778128</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>109240</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.46778128,51.3086,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BUDDS FARM HAVANT STC</name>
+        <description><![CDATA[Lat: 50.84532<br>Long: -0.99561413<br>Asset ID: 108912]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>50.84532</value>
+          </Data>
+          <Data name="Long">
+            <value>-0.99561413</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>108912</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.99561413,50.84532,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CANTERBURY STC</name>
+        <description><![CDATA[Lat: 51.29513<br>Long: 1.10831011<br>Asset ID: 107420]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>51.29513</value>
+          </Data>
+          <Data name="Long">
+            <value>1.10831011</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>107420</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            1.10831011,51.29513,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FORD STC</name>
+        <description><![CDATA[Lat: 50.81832<br>Long: -0.5890157<br>Asset ID: 107427]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>50.81832</value>
+          </Data>
+          <Data name="Long">
+            <value>-0.5890157</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>107427</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.5890157,50.81832,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FULLERTON STC</name>
+        <description><![CDATA[Lat: 51.17177<br>Long: -1.47407714<br>Asset ID: 107418]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>51.17177</value>
+          </Data>
+          <Data name="Long">
+            <value>-1.47407714</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>107418</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.47407714,51.17177,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GODDARDS GREEN STC</name>
+        <description><![CDATA[Lat: 50.97015<br>Long: -0.16413907<br>Asset ID: 107430]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>50.97015</value>
+          </Data>
+          <Data name="Long">
+            <value>-0.16413907</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>107430</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.16413907,50.97015,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GRAVESEND STC</name>
+        <description><![CDATA[Lat: 51.43980<br>Long: 0.39589028<br>Asset ID: 107423]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>51.43980</value>
+          </Data>
+          <Data name="Long">
+            <value>0.39589028</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>107423</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.39589028,51.4398,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HAM HILL STC</name>
+        <description><![CDATA[Lat: 51.32202<br>Long: 0.44586662<br>Asset ID: 111541]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>51.32202</value>
+          </Data>
+          <Data name="Long">
+            <value>0.44586662</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>111541</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.44586662,51.32202,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HASTINGS STC</name>
+        <description><![CDATA[Lat: 50.85711<br>Long: 0.508463241<br>Asset ID: 107432]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>50.85711</value>
+          </Data>
+          <Data name="Long">
+            <value>0.508463241</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>107432</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.508463241,50.85711,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MILLBROOK STC</name>
+        <description><![CDATA[Lat: 50.91161<br>Long: -1.448711<br>Asset ID: 103264]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>50.91161</value>
+          </Data>
+          <Data name="Long">
+            <value>-1.448711</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>103264</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.448711,50.91161,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MOTNEY HILL STC</name>
+        <description><![CDATA[Lat: 51.38505<br>Long: 0.62788502<br>Asset ID: 107424]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>51.38505</value>
+          </Data>
+          <Data name="Long">
+            <value>0.62788502</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>107424</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.62788502,51.38505,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PEACEHAVEN STC</name>
+        <description><![CDATA[Lat: 50.793899<br>Long: 0.006999<br>Asset ID: 111590]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>50.793899</value>
+          </Data>
+          <Data name="Long">
+            <value>0.006999</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>111590</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.006999,50.793899,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>QUEENBOROUGH STC</name>
+        <description><![CDATA[Lat: 51.40274<br>Long: 0.74289724<br>Asset ID: 107241]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>51.40274</value>
+          </Data>
+          <Data name="Long">
+            <value>0.74289724</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>107241</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.74289724,51.40274,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SANDOWN STC</name>
+        <description><![CDATA[Lat: 50.66360<br>Long: -1.148504<br>Asset ID: 108923]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>50.66360</value>
+          </Data>
+          <Data name="Long">
+            <value>-1.148504</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>108923</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.148504,50.6636,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>WORTHING STC</name>
+        <description><![CDATA[Lat: 50.82026<br>Long: -0.3413577<br>Asset ID: 107428]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>50.82026</value>
+          </Data>
+          <Data name="Long">
+            <value>-0.3413577</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>107428</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.3413577,50.82026,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BROOMFIELD BANK WwTW</name>
+        <description><![CDATA[Lat: 51.11461<br>Long: 1.26337553<br>Asset ID: 100206]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>51.11461</value>
+          </Data>
+          <Data name="Long">
+            <value>1.26337553</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>100206</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            1.26337553,51.11461,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CHICHESTER WwTW</name>
+        <description><![CDATA[Lat: 50.82851<br>Long: -0.8058328<br>Asset ID: 100834]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>50.82851</value>
+          </Data>
+          <Data name="Long">
+            <value>-0.8058328</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>100834</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.8058328,50.82851,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CHICKENHALL EASTLEIGH WwTW</name>
+        <description><![CDATA[Lat: 50.96044<br>Long: -1.3388051<br>Asset ID: 101307]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>50.96044</value>
+          </Data>
+          <Data name="Long">
+            <value>-1.3388051</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>101307</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.3388051,50.96044,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EASTBOURNE WwTW</name>
+        <description><![CDATA[Lat: 50.78493<br>Long: 0.32692328<br>Asset ID: 100174]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>50.78493</value>
+          </Data>
+          <Data name="Long">
+            <value>0.32692328</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>100174</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.32692328,50.78493,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDENBRIDGE WwTW</name>
+        <description><![CDATA[Lat: 51.20609<br>Long: 0.07857777<br>Asset ID: 100644]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>51.20609</value>
+          </Data>
+          <Data name="Long">
+            <value>0.07857777</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>100644</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.07857777,51.20609,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HAILSHAM NORTH WwTW</name>
+        <description><![CDATA[Lat: 50.87337<br>Long: 0.27236292<br>Asset ID: 100532]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>50.87337</value>
+          </Data>
+          <Data name="Long">
+            <value>0.27236292</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>100532</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.27236292,50.87337,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HORSHAM NEW WwTW</name>
+        <description><![CDATA[Lat: 51.05428<br>Long: -0.3619624<br>Asset ID: 102406]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>51.05428</value>
+          </Data>
+          <Data name="Long">
+            <value>-0.3619624</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>102406</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.3619624,51.05428,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NEWHAVEN EAST WwTW</name>
+        <description><![CDATA[Lat: 50.78780<br>Long: 0.0594599<br>Asset ID: 108157]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>50.78780</value>
+          </Data>
+          <Data name="Long">
+            <value>0.0594599</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>108157</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.0594599,50.7878,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PEEL COMMON WwTW</name>
+        <description><![CDATA[Lat: 50.82648<br>Long: -1.1991708<br>Asset ID: 100592]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>50.82648</value>
+          </Data>
+          <Data name="Long">
+            <value>-1.1991708</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>100592</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.1991708,50.82648,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SCAYNES HILL WwTW</name>
+        <description><![CDATA[Lat: 51.00271<br>Long: -0.0395358<br>Asset ID: 100676]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>51.00271</value>
+          </Data>
+          <Data name="Long">
+            <value>-0.0395358</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>100676</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.0395358,51.00271,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SHOREHAM WwTW</name>
+        <description><![CDATA[Lat: 50.82914<br>Long: -0.2318153<br>Asset ID: 103237]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>50.82914</value>
+          </Data>
+          <Data name="Long">
+            <value>-0.2318153</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>103237</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.2318153,50.82914,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TUNBRIDGE WELLS NORTH WwTW</name>
+        <description><![CDATA[Lat: 51.15695<br>Long: 0.28854316<br>Asset ID: 102261]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>51.15695</value>
+          </Data>
+          <Data name="Long">
+            <value>0.28854316</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>102261</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.28854316,51.15695,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[WEATHERLEES HILL B (MGATE & BSTAIRS) WwTW]]></name>
+        <description><![CDATA[Lat: 51.316109<br>Long: 1.346901<br>Asset ID: 110610]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>51.316109</value>
+          </Data>
+          <Data name="Long">
+            <value>1.346901</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>110610</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            1.346901,51.316109,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>WOOLSTON WwTW</name>
+        <description><![CDATA[Lat: 50.89189<br>Long: -1.3827015<br>Asset ID: 102604]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>50.89189</value>
+          </Data>
+          <Data name="Long">
+            <value>-1.3827015</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>102604</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.3827015,50.89189,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PORTSWOOD WwTW</name>
+        <description><![CDATA[Lat: 50.92970<br>Long: -1.382571<br>Asset ID: 100521]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>50.92970</value>
+          </Data>
+          <Data name="Long">
+            <value>-1.382571</value>
+          </Data>
+          <Data name="Asset ID">
+            <value>100521</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.382571,50.9297,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

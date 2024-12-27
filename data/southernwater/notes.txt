@@ -1,0 +1,21 @@
+https://www.southwest-environmental.co.uk/further%20info/in%20depth/sewage_works_maps/southern_water_sewage_treatment_works_location_map.html
+
+LUDGERSHALL WTW
+Lat
+51.24649
+Long
+-1.6127562
+Asset ID
+101055
+
+
+
+
+http://environment.data.gov.uk/asset-management/id/maintenance-activity?maintainedAsset=101055
+http://environment.data.gov.uk/asset-management/id/asset/101055/maintenance-activity
+
+
+
+http://environment.data.gov.uk/asset-management/asset.geojson?lat=51.24649&lng=-1.6127562&radius=10
+
+https://environment.data.gov.uk/hydrology/id/stations?lat=51.24649&long=-1.6127562&dist=5
